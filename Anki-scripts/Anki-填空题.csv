@@ -1,78 +1,17 @@
-问答题：
-What are growth factors?,什么是生长因子？<br>Organic compounds that a cell must have for growth but cannot synthesize itself.<br>细胞生长所必需但自身不能合成的有机化合物。,病源与免疫 细菌 细菌生长的基本需求 问答题
-What is the definition of generation time (or doubling time)?,什么是世代时间（或倍增时间）？<br>The time required for a single cell to complete one binary fission.<br>单个细胞完成一次二分裂所需的时间。,病源与免疫 细菌 生长速度与计算 问答题
-What is a batch culture in microbiology?,"微生物学中的批量培养是什么？<br>A culture system where microorganisms are inoculated into a fixed volume of liquid medium, representing a closed system with limited resources.<br>将微生物接种到固定体积的液体培养基中的培养系统，它是一个资源有限的封闭系统。",病源与免疫 细菌 批量培养与典型生长曲线 问答题
-What is a pyrogen?,什么是致热源？<br>A polysaccharide product that can cause a rise in body temperature (pyretic reaction).<br>一种可引起体温升高的多糖类产物（发热反应）。,病源与免疫 细菌 医学重要的合成产物 问答题
-What is an antibiotic?,什么是抗生素？<br>A product of microorganisms that can inhibit or kill other microorganisms.<br>由一种微生物产生，能抑制或杀灭其他微生物的物质。,病源与免疫 细菌 医学重要的合成产物 问答题
-What is a bacteriocin?,什么是细菌素？<br>A factor that inhibits or kills closely related species or different strains of the same species.<br>一种能抑制或杀死近缘物种或同种不同菌株的因子。,病源与免疫 细菌 医学重要的合成产物 问答题
-
-填空题：
-"In an Open System, nutrients are continuously {{c1::replenished}} and metabolic wastes are {{c1::removed}}.",在开放系统中，营养物质被持续补充，代谢废物被清除。,病源与免疫 细菌 开放系统 vs 封闭系统 填空题
-"A Closed System, typical in labs like {{c1::agar plates}} or {{c1::broth tubes}}, is characterized by gradual nutrient depletion and accumulation of waste.",封闭系统是实验室的典型条件（如固体平板、液体培养基），其特点是营养物逐渐耗尽、废物不被移除。,病源与免疫 细菌 开放系统 vs 封闭系统 填空题
-Clinical applications of bacterial culture include {{c1::etiological diagnosis}}、{{c1::microbiological research}}、and preparation of biological products like {{c1::vaccines}}、{{c1::antigens}}、and {{c1::toxoids}}.,细菌培养的临床/科研应用包括病原学诊断、微生物学研究、以及制备生物制品（如疫苗、抗原、类毒素等）。,病源与免疫 细菌 开放系统 vs 封闭系统 填空题
-The basic requirements for bacterial growth include {{c1::Water}}、{{c1::Carbon source}}、{{c1::Nitrogen source}}、{{c1::Inorganic salts}}、and {{c1::Growth factors}}.,细菌生长的基本需求包括水、碳源、氮源、无机盐和生长因子。,病源与免疫 细菌 细菌生长的基本需求 填空题
-A {{c1::Neutrophile}} is a bacterium that grows best at a neutral pH range of {{c1::6.0–8.0}}.,中性菌是在最适pH 6.0–8.0范围内生长的细菌。,病源与免疫 细菌 细菌生长的基本需求 填空题
-"An {{c1::Acidophile}} prefers an acidic environment, with an optimal pH {{c1::\< 5.5}}.",嗜酸菌偏好酸性环境，其最适pH \< 5.5。,病源与免疫 细菌 细菌生长的基本需求 填空题
-"An {{c1::Alkaliphile}} thrives in alkaline conditions, with an optimal pH {{c1::\> 10.5}}.",嗜碱菌在碱性环境中茁壮成长，其最适pH \> 10.5。,病源与免疫 细菌 细菌生长的基本需求 填空题
-A {{c1::Psychrophile}} is a cold-loving bacterium with an optimal temperature of {{c1::20–30 °C}}.,嗜冷菌是喜好低温的细菌，最适温度为20–30 °C。,病源与免疫 细菌 细菌生长的基本需求 填空题
-"A {{c1::Mesophile}}, which includes many clinical pathogens, grows optimally at {{c1::30–37 °C}}.",中温菌，包括许多临床致病菌，其最适生长温度为30–37 °C。,病源与免疫 细菌 细菌生长的基本需求 填空题
-A {{c1::Thermophile}} is a heat-loving bacterium with an optimal temperature of {{c1::50–60 °C}}.,嗜热菌是喜好高温的细菌，最适温度为50–60 °C。,病源与免疫 细菌 细菌生长的基本需求 填空题
-"The primary mode of bacterial reproduction is asexual, known as {{c1::binary fission}}, where one cell divides into two daughter cells.",细菌繁殖的主要方式是无性繁殖，称为二分裂，即一个细胞分裂成两个子细胞。,病源与免疫 细菌 细菌繁殖方式 填空题
-"The generation time for most bacteria, like Escherichia coli, is about {{c1::20–30 minutes}}.",大多数细菌（如大肠杆菌）的世代时间约为20–30分钟。,病源与免疫 细菌 生长速度与计算 填空题
-"Some slow-growing bacteria, such as Mycobacterium tuberculosis, have a very long generation time of {{c1::18–20 hours}}.",一些生长缓慢的细菌，如结核分枝杆菌，具有很长的世代时间，约为18–20小时。,病源与免疫 细菌 生长速度与计算 填空题
-"In the {{c1::Lag phase}} of the bacterial growth curve, cells do not divide immediately but elongate and synthesize necessary macromolecules.",在细菌生长曲线的迟滞期，细胞不立即分裂，而是延长并合成必需的大分子。,病源与免疫 细菌 批量培养与典型生长曲线 填空题
-"The {{c1::Exponential/Log phase}} is characterized by a constant division rate, and bacteria exhibit their typical biological properties such as {{c1::staining}}、{{c1::shapes}}、{{c1::chemical reactions}}、and {{c1::sensitivity to antimicrobial agents}}.",对数/指数期的特征是恒定的分裂速率，细菌表现出典型的生物学特性，如染色特征、形态、化学反应和对抗生素的敏感性。,病源与免疫 细菌 批量培养与典型生长曲线 填空题
-"During the {{c1::Stationary phase}}, the total number of viable cells remains constant as the rate of division equals the rate of death; metabolites like {{c1::spores}}、{{c1::exotoxins}}、and {{c1::antibiotics}} may be produced.",在稳定期，活菌总数基本恒定，因为分裂速率约等于死亡速率；此阶段可能产生孢子、外毒素、抗生素等代谢物。,病源与免疫 细菌 批量培养与典型生长曲线 填空题
-"In the {{c1::Death/Decline phase}}, the number of viable cells decreases exponentially, and cells may lyse or assume abnormal forms.",在衰亡期，活菌数量呈指数级下降，细胞可能崩解或呈现异常形态。,病源与免疫 细菌 批量培养与典型生长曲线 填空题
-"{{c1::Catabolism}} is the metabolic process that breaks down molecules, releasing energy and precursor metabolites.",异化作用是分解代谢过程，它分解分子，释放能量和前体代谢物。,病源与免疫 细菌 异化与同化 填空题
-{{c1::Anabolism}} is the metabolic process that consumes energy to build cellular components and metabolic products.,同化作用是消耗能量来构建细胞组分和代谢产物的代谢过程。,病源与免疫 细菌 异化与同化 填空题
-Medically important anabolic products of bacteria include {{c1::Pyrogen}}、{{c1::Toxins}}、{{c1::Invasive enzyme}}、{{c1::Antibiotic}}、{{c1::Bacteriocin}}、{{c1::Vitamin}}、and {{c1::Pigment}}.,医学上重要的细菌合成产物包括致热源、毒素、侵袭性酶、抗生素、细菌素、维生素和色素。,病源与免疫 细菌 医学重要的合成产物 填空题
-{{c1::Exotoxins}} are typically protein-based toxins secreted by living bacterial cells.,外毒素通常是由活细菌细胞分泌的蛋白质类毒素。,病源与免疫 细菌 医学重要的合成产物 填空题
-{{c1::Endotoxin}} is associated with the lipopolysaccharide (LPS) component of the cell wall of Gram-negative bacteria and is released upon cell death or lysis.,内毒素与革兰阴性菌细胞壁的脂多糖（LPS）成分有关，在细菌死亡或裂解时释放。,病源与免疫 细菌 医学重要的合成产物 填空题
-
-词根-词缀卡片：
-Open system,"音标：/ˈoʊpən/ /ˈsɪstəm/<br>释义：开放系统<br>词组：“open” (开放的, 源自古英语 open “not closed”)<br>词组：“system” (系统, 源自希腊语 systema “organized whole”)",病源与免疫 细菌 开放系统 vs 封闭系统 词根-词缀卡片
-Closed system,"音标：/kloʊzd/ /ˈsɪstəm/<br>释义：封闭系统<br>词组：“closed” (封闭的, 源自拉丁语 claudere “to shut”)<br>词组：“system” (系统, 源自希腊语 systema “organized whole”)",病源与免疫 细菌 开放系统 vs 封闭系统 词根-词缀卡片
-Growth factors,"音标：/ɡroʊθ/ /ˈfæktərz/<br>释义：生长因子<br>词组：“growth” (生长, 源自古英语 growan “to grow”)<br>词组：“factors” (因子, 源自拉丁语 facere “to do, make”)",病源与免疫 细菌 细菌生长的基本需求 词根-词缀卡片
-Neutrophile,"音标：/ˈnjuːtrəfaɪl/<br>释义：中性菌<br>词根：“neutr-” (中性的, 源自拉丁语 neuter “neither”)<br>词缀：“-phile” (喜爱, 源自希腊语 philos “loving”)",病源与免疫 细菌 细菌生长的基本需求 词根-词缀卡片
-Acidophile,"音标：/əˈsɪdəfaɪl/<br>释义：嗜酸菌<br>词根：“acido-” (酸, 源自拉丁语 acidus “sour”)<br>词缀：“-phile” (喜爱, 源自希腊语 philos “loving”)",病源与免疫 细菌 细菌生长的基本需求 词根-词缀卡片
-Alkaliphile,"音标：/ˈælkəlɪfaɪl/<br>释义：嗜碱菌<br>词根：“alkali-” (碱, 源自阿拉伯语 al-qili “calcined ashes”)<br>词缀：“-phile” (喜爱, 源自希腊语 philos “loving”)",病源与免疫 细菌 细菌生长的基本需求 词根-词缀卡片
-Psychrophile,"音标：/ˈsaɪkrəfaɪl/<br>释义：嗜冷菌<br>词根：“psychro-” (冷的, 源自希腊语 psychros “cold”)<br>词缀：“-phile” (喜爱, 源自希腊语 philos “loving”)",病源与免疫 细菌 细菌生长的基本需求 词根-词缀卡片
-Mesophile,"音标：/ˈmɛzəfaɪl/<br>释义：中温菌<br>词根：“meso-” (中间的, 源自希腊语 mesos “middle”)<br>词缀：“-phile” (喜爱, 源自希腊语 philos “loving”)",病源与免疫 细菌 细菌生长的基本需求 词根-词缀卡片
-Thermophile,"音标：/ˈθɜːrməfaɪl/<br>释义：嗜热菌<br>词根：“thermo-” (热的, 源自希腊语 thermos “hot”)<br>词缀：“-phile” (喜爱, 源自希腊语 philos “loving”)",病源与免疫 细菌 细菌生长的基本需求 词根-词缀卡片
-Aeration,"音标：/ˌeəˈreɪʃn/<br>释义：通气<br>词根：“aer-” (空气, 源自希腊语 aer “air”)<br>词缀：“-ation” (名词后缀, 表行为或过程)",病源与免疫 细菌 细菌生长的基本需求 词根-词缀卡片
-Binary fission,"音标：/ˈbaɪnəri/ /ˈfɪʃn/<br>释义：二分裂<br>词根：“bi-” (二, 源自拉丁语 bis “twice”)<br>词缀：“-nary” (形容词后缀)<br>词组：“fission” (分裂, 源自拉丁语 fissio “a splitting”)",病源与免疫 细菌 细菌繁殖方式 词根-词缀卡片
-Generation time,"音标：/ˌdʒɛnəˈreɪʃn/ /taɪm/<br>释义：世代时间<br>词根：“gener-” (产生, 源自拉丁语 genus “birth, race”)<br>词缀：“-ation” (名词后缀)<br>词组：“time” (时间, 源自古英语 tima)",病源与免疫 细菌 生长速度与计算 词根-词缀卡片
-Doubling time,"音标：/ˈdʌblɪŋ/ /taɪm/<br>释义：倍增时间<br>词组：“doubling” (加倍, 源自拉丁语 duplus “twofold”)<br>词组：“time” (时间, 源自古英语 tima)",病源与免疫 细菌 生长速度与计算 词根-词缀卡片
-Batch culture,"音标：/bætʃ/ /ˈkʌltʃər/<br>释义：批量培养<br>词组：“batch” (一批, 源自中古英语 bacche)<br>词组：“culture” (培养, 源自拉丁语 cultura “a cultivating”)",病源与免疫 细菌 批量培养与典型生长曲线 词根-词缀卡片
-Growth curve,"音标：/ɡroʊθ/ /kɜːrv/<br>释义：生长曲线<br>词组：“growth” (生长, 源自古英语 growan “to grow”)<br>词组：“curve” (曲线, 源自拉丁语 curvus “bent”)",病源与免疫 细菌 批量培养与典型生长曲线 词根-词缀卡片
-Catabolism,"音标：/kəˈtæbəlɪzəm/<br>释义：异化作用<br>词根：“cata-” (向下, 源自希腊语 kata “down”)<br>词根：“bol-” (抛, 投, 源自希腊语 bole “a throw”)<br>词缀：“-ism” (名词后缀, 表学说或状态)",病源与免疫 细菌 异化与同化 词根-词缀卡片
-Anabolism,"音标：/əˈnæbəlɪzəm/<br>释义：同化作用<br>词根：“ana-” (向上, 源自希腊语 ana “up”)<br>词根：“bol-” (抛, 投, 源自希腊语 bole “a throw”)<br>词缀：“-ism” (名词后缀, 表学说或状态)",病源与免疫 细菌 异化与同化 词根-词缀卡片
-Pyrogen,"音标：/ˈpaɪrədʒən/<br>释义：致热源<br>词根：“pyro-” (火, 热, 源自希腊语 pyr “fire”)<br>词缀：“-gen” (产生, 源自希腊语 genes “producing”)",病源与免疫 细菌 医学重要的合成产物 词根-词缀卡片
-Exotoxin,"音标：/ˈɛksoʊˌtɒksɪn/<br>释义：外毒素<br>词缀：“exo-” (外部的, 源自希腊语 exo “outside”)<br>词根：“toxin” (毒素, 源自希腊语 toxikon “arrow poison”)",病源与免疫 细菌 医学重要的合成产物 词根-词缀卡片
-Endotoxin,"音标：/ˈɛndoʊˌtɒksɪn/<br>释义：内毒素<br>词缀：“endo-” (内部的, 源自希腊语 endon “within”)<br>词根：“toxin” (毒素, 源自希腊语 toxikon “arrow poison”)",病源与免疫 细菌 医学重要的合成产物 词根-词缀卡片
-Invasive enzyme,"音标：/ɪnˈveɪsɪv/ /ˈɛnzaɪm/<br>释义：侵袭性酶<br>词根：“in-” (进入, 源自拉丁语)<br>词根：“vas-” (走, 源自拉丁语 vadere “to go”)<br>词缀：“-ive” (形容词后缀)<br>词根：“en-” (在内, 源自希腊语)<br>词根：“zyme” (发酵, 源自希腊语 zyme “leaven”)",病源与免疫 细菌 医学重要的合成产物 词根-词缀卡片
-Antibiotic,"音标：/ˌæntibaɪˈɒtɪk/<br>释义：抗生素<br>词缀：“anti-” (反对, 源自希腊语 anti “against”)<br>词根：“bio-” (生命, 源自希腊语 bios “life”)<br>词缀：“-tic” (的, 形容词后缀)",病源与免疫 细菌 医学重要的合成产物 词根-词缀卡片
-Bacteriocin,"音标：/bækˌtɪəriˈoʊsɪn/<br>释义：细菌素<br>词根：“bacterio-” (细菌, 源自希腊语 bakterion “small staff”)<br>词缀：“-cin” (素, 源自产生菌)",病源与免疫 细菌 医学重要的合成产物 词根-词缀卡片
-Vitamin,"音标：/ˈvaɪtəmɪn/<br>释义：维生素<br>词根：“vita-” (生命, 源自拉丁语 vita “life”)<br>词根：“amine” (胺, 源自氨 ammonia)",病源与免疫 细菌 医学重要的合成产物 词根-词缀卡片
-Pigment,"音标：/ˈpɪɡmənt/<br>释义：色素<br>词根：“pig-” (描画, 源自拉丁语 pingere “to paint”)<br>词缀：“-ment” (名词后缀, 表结果)",病源与免疫 细菌 医学重要的合成产物 词根-词缀卡片
-
-好的，遵照您的指示，我现在为您补充生成之前遗漏的知识点和词汇的Anki卡片。
-
------
-
-问答题：
-"What is the growth rate constant (k)?","什么是生长速率常数 (k)？<br>A constant used to estimate the amount of bacterial growth in a specific time or the time required to reach a certain amount of growth. It is inversely related to the generation time (td).<br>一个用于估算在特定时间内细菌生长量或达到特定生长量所需时间的常数。它与世代时间 (td) 成反比关系。",病源与免疫 细菌 生长速度与计算 问答题
-"What is the function of invasive enzymes produced by bacteria?","细菌产生的侵袭性酶有什么功能？<br>They promote the invasion and spread of bacteria within host tissues.<br>它们促进细菌在宿主组织内的侵袭与扩散。",病源与免疫 细菌 医学重要的合成产物 问答题
-"What is the overall medical significance of bacterial anabolic products?","细菌合成产物的总体医学意义是什么？<br>They can significantly affect a bacterium's pathogenicity, influence clinical manifestations (e.g., fever, shock), aid in laboratory diagnosis (e.g., pigment, toxin detection), and impact treatment strategies.<br>它们可以显著影响细菌的致病力、影响临床表现（如发热、休克）、帮助实验室诊断（如色素、毒素检测），并影响治疗策略。",病源与免疫 细菌 医学重要的合成产物 问答题
-
-填空题：
-"Aeration is a critical physical requirement as culture conditions must be designed according to the specific {{c1::oxygen demand}} of the microorganism.","通气是一个关键的物理需求，因为培养条件必须根据微生物的特定需氧量来设计。",病源与免疫 细菌 细菌生长的基本需求 填空题
-"A key clinical point for the Exponential/Log phase is that most antibacterial drugs are more effective because they target {{c1::actively dividing bacteria}}.","对数期的一个关键临床要点是，大多数抗菌药物之所以更有效，是因为它们靶向活跃分裂的细菌。",病源与免疫 细菌 批量培养与典型生长曲线 填空题
-"The approximate growth rates in the four phases of a bacterial growth curve are: Lag phase ({{c1::≈0}}), Log phase ({{c1::constant}}), Stationary phase ({{c1::≈0}}), and Decline phase ({{c1::negative}}).","细菌生长曲线四个阶段的大致增长速率为：迟滞期（≈0）、对数期（恒定）、稳定期（≈0）和衰亡期（负值）。",病源与免疫 细菌 批量培养与典型生长曲线 填空题
-"In the Stationary phase, in addition to producing metabolites like spores and exotoxins, bacterial cells may exhibit {{c1::atypical morphology}}.","在稳定期，除了产生孢子和外毒素等代谢物外，细菌细胞还可能表现出非典型形态。",病源与免疫 细菌 批量培养与典型生长曲线 填空题
-"The production of {{c1::pigments}} by certain bacteria has diagnostic value, as the color can be a key characteristic for identification.","某些细菌产生色素具有诊断价值，因为颜色可以作为鉴定的一个关键特征。",病源与免疫 细菌 医学重要的合成产物 填空题
-"Some bacteria are capable of synthesizing and releasing {{c1::vitamins}}, which can be a nutritional source in their environment.","一些细菌能够合成并释放维生素，这可以作为其环境中的营养来源。",病源与免疫 细菌 医学重要的合成产物 填空题
-
-## 词根-词缀卡片： "toxoid","音标：/ˈtɒksɔɪd/<br>释义：类毒素<br>词根：“tox-” (毒, 源自希腊语 toxikon “arrow poison”)<br>词缀：“-oid” (相似物, 源自希腊语 eidos “form”)",病源与免疫 细菌 开放系统 vs 封闭系统 词根-词缀卡片 "antigen","音标：/ˈæntɪdʒən/<br>释义：抗原<br>词缀：“anti-” (反对, 源自希腊语 anti “against”)<br>词根：“-gen” (产生, 源自希腊语 genes “producing”)",病源与免疫 细菌 开放系统 vs 封闭系统 词根-词缀卡片 "vaccine","音标：/ˈvæksiːn/<br>释义：疫苗<br>词根：“vacc-” (牛, 源自拉丁语 vacca “cow”)<br>词缀：“-ine” (的, 后缀)",病源与免疫 细菌 开放系统 vs 封闭系统 词根-词缀卡片
-
+"In a natural environment, an {{c1::open system}} is where nutrients are continuously replenished and wastes are removed, whereas in a lab setting (e.g., {{c1::agar plates}}, {{c1::broth tubes}}), a {{c1::closed system}} is where nutrients are gradually depleted and wastes accumulate.","在自然环境中，{{开放系统}}指营养持续补充、废物被清除的环境；而在实验室中（如{{固体平板}}、{{液体培养基}}），{{封闭系统}}指营养逐渐耗尽、废物不被移除的环境。","病源与免疫 细菌 细菌生理学 开放与封闭系统 填空题"
+"The main applications of bacterial culture in clinical and research settings are {{c1::pathogenic diagnosis}}, {{c1::microbiological research}}, and the preparation of biological products like {{c1::vaccines}}, {{c1::antigens}}, and {{c1::toxoids}}.","细菌培养在临床和科研中的主要应用包括{{病原学诊断}}、{{微生物学研究}}以及制备生物制品，如{{疫苗}}、{{抗原}}和{{类毒素}}。","病源与免疫 细菌 细菌生理学 开放与封闭系统 填空题"
+"The five basic nutritional requirements for bacterial growth are {{c1::Water}}, {{c1::Carbon source}}, {{c1::Nitrogen source}}, {{c1::Inorganic salts}}, and {{c1::Growth factors}}.","细菌生长的五大基本营养需求是{{水}}、{{碳源}}、{{氮源}}、{{无机盐}}和{{生长因子}}。","病源与免疫 细菌 细菌生理学 生长需求 填空题"
+"Based on their optimal pH for growth, bacteria are classified as {{c1::Neutrophiles}} (pH 6.0–8.0), {{c1::Acidophiles}} (pH \< 5.5), and {{c1::Alkaliphiles}} (pH \> 10.5).","根据最适生长pH值，细菌可分为{{中性菌}}（pH 6.0–8.0）、{{嗜酸菌}}（pH \< 5.5）和{{嗜碱菌}}（pH \> 10.5）。","病源与免疫 细菌 细菌生理学 生长需求 填空题"
+"Based on their optimal temperature for growth, bacteria are classified as {{c1::Psychrophiles}} (20–30 °C), {{c1::Mesophiles}} (30–37 °C), and {{c1::Thermophiles}} (50–60 °C).","根据最适生长温度，细菌可分为{{嗜冷菌}}（20–30 °C）、{{中温菌}}（30–37 °C）和{{嗜热菌}}（50–60 °C）。","病源与免疫 细菌 细菌生理学 生长需求 填空题"
+"The mode of reproduction for bacteria is asexual, through a process called {{c1::binary fission}}, where one cell divides into two daughter cells.","细菌的繁殖方式为无性繁殖，通过{{二分裂}}的方式，即一个细胞分裂为两个子细胞。","病源与免疫 细菌 细菌生理学 繁殖方式 填空题"
+"The time required for a cell to complete one binary fission is called the {{c1::Generation time}} or {{c1::Doubling time (td)}}.","单个细胞完成一次二分裂所需的时间称为{{倍增时间}}或{{世代时间 (td)}}。","病源与免疫 细菌 细菌生理学 生长速度 填空题"
+"The generation time for most bacteria like {{c1::Escherichia coli}} is {{c1::20–30 min}}, while for slow-growing bacteria like {{c1::Mycobacterium tuberculosis}}, it can be as long as {{c1::18–20 h}}.","大多数细菌如{{大肠杆菌}}的世代时间约为{{20–30分钟}}，而生长缓慢的细菌如{{结核分枝杆菌}}的世代时间可长达{{18–20小时}}。","病源与免疫 细菌 细菌生理学 生长速度 填空题"
+"A {{c1::growth curve}} is generated in a {{c1::batch culture}}, which is a {{c1::closed system}}, by plotting the number of viable cells per mL against time.","{{生长曲线}}是在{{批量培养}}（一种{{封闭系统}}）中，通过定期计数每毫升可存活细胞数并对时间作图而得到的。","病源与免疫 细菌 细菌生理学 生长曲线 填空题"
+"The typical bacterial growth curve consists of four distinct phases in order: {{c1::Lag phase}}, {{c1::Exponential (Log) phase}}, {{c1::Stationary phase}}, and {{c1::Death (Decline) phase}}.","典型的细菌生长曲线依次包含四个不同的时期：{{迟滞期}}、{{对数期（指数期）}}、{{稳定期}}和{{衰亡期}}。","病源与免疫 细菌 细菌生理学 生长曲线 填空题"
+"In the {{c1::Lag phase}} of the growth curve, cells do not divide immediately, their growth rate is approximately {{c1::zero}}, and they are actively synthesizing proteins and enzymes for division.","在生长曲线的{{迟滞期}}，细菌不立即分裂，增长速率约等于{{零}}，细胞延长并合成蛋白质与分裂相关酶。","病源与免疫 细菌 细菌生理学 生长曲线 填空题"
+"The {{c1::Exponential/Log phase}} is characterized by a {{c1::constant}} growth rate, and bacteria exhibit their typical biological properties, such as {{c1::staining}}, {{c1::shapes}}, {{c1::chemical reactions}}, and {{c1::sensitivity to antimicrobial agents}}.","{{对数期（指数期）}}的特点是细菌以{{恒定}}速率分裂，并展现出典型的生物学特性，如{{染色特征}}、{{形态}}、{{化学反应}}以及{{对抗生素的敏感性}}。","病源与免疫 细菌 细菌生理学 生长曲线 填空题"
+"During the {{c1::Stationary phase}}, the total number of viable cells remains constant as the division rate equals the death rate. Bacteria may produce metabolites such as {{c1::spores}}, {{c1::exotoxins}}, and {{c1::antibiotics}}.","在{{稳定期}}，活菌总数基本恒定，因为分裂速率约等于死亡速率。此阶段细菌可能产生{{孢子}}、{{外毒素}}、{{抗生素}}等代谢物。","病源与免疫 细菌 细菌生理学 生长曲线 填空题"
+"The {{c1::Death/Decline phase}} is marked by an exponential {{c1::decrease}} in the number of viable cells, with a {{c1::negative}} growth rate, and cells may undergo lysis or appear in abnormal forms.","{{衰亡期}}的特征是活菌数呈指数级{{下降}}，增长速率为{{负值}}，细胞可能发生崩解或出现异常形态。","病源与免疫 细菌 细菌生理学 生长曲线 填空题"
+"{{c1::Catabolism}} is the metabolic process that {{c1::releases energy}} by breaking down molecules, while {{c1::Anabolism}} is the process that {{c1::consumes energy}} to synthesize cellular components.","{{异化作用}}是通过分解代谢{{释放能量}}的过程，而{{同化作用}}是消耗能量以{{合成细胞组分}}的过程。","病源与免疫 细菌 细菌生理学 异化与同化 填空题"
+"Medically important anabolic products from bacteria include {{c1::Pyrogen}}, {{c1::Toxins}} (Exotoxin and Endotoxin), {{c1::Invasive enzyme}}, {{c1::Antibiotic}}, {{c1::Bacteriocin}}, {{c1::Vitamin}}, and {{c1::Pigment}}.","医学上重要的细菌合成产物包括{{致热源}}、{{毒素}}（外毒素、内毒素）、{{侵袭性酶}}、{{抗生素}}、{{细菌素}}、{{维生素}}和{{色素}}。","病源与免疫 细菌 细菌生理学 医学重要产物 填空题"
+"{{c1::Exotoxins}} are proteins secreted by living bacteria, while {{c1::endotoxins}} are lipopolysaccharide (LPS) components of the Gram-negative cell wall released upon bacterial death or lysis.","{{外毒素}}是活菌分泌的蛋白质，而{{内毒素}}是革兰阴性菌细胞壁的脂多糖（LPS）成分，在细菌死亡或裂解时释放。","病源与免疫 细菌 细菌生理学 医学重要产物 填空题"
