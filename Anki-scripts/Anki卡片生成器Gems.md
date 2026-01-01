@@ -137,16 +137,26 @@
 "Why are the internal environment and homeostasis important?","内环境与稳态的重要性是什么？<br>The internal environment and its relative stability (homeostasis) are essential for cell survival and for maintaining normal life activities of the body.<br>内环境及其相对稳定（稳态）是细胞生存并维持机体正常生命活动的必要条件。","生理学 绪论 问答题"
 
 # ====================== 填空题卡片 (CSV) ======================
-每张卡片同样占一行，3 个字段，英文逗号分隔，字段用双引号包裹：
+每张卡片同样占一行，**3 个字段**，英文逗号分隔，每个字段整体用双引号包裹：
 
-正面题目格式：
+**字段 1（Front / 正面题目）**
 将知识点构造成一个包含一个或多个填空挖空的句子或短语。
 每个需要挖空的部分必须按顺序使用 {{c1::挖空内容}}、{{c2::挖空内容}}、{{c3::挖空内容}} 等格式包裹。
-重要： 在同一张填空卡片（即同一行）中，按顺序使用 c1、c2、c3 等不同的序号，Anki 会自动为每个挖空生成独立的卡片。
-中文翻译：给出完整参考句或段落,与填空对应的部分使用<b class="hl">进行高亮, 如"这是中文翻译，<b class="hl">对应词1</b> 和 <b class="hl">对应词2</b> 高亮一下。"
-标签：同上。
-示例：
+重要：在同一张填空卡片（即同一行）中，按顺序使用 c1、c2、c3 等不同的序号，Anki 会自动为每个挖空生成独立的卡片。
+
+**字段 2（Back / 背面，HTML 内用 <br> 换行）**
+结构如下：
+- 第1行：中文翻译（给出完整参考句或段落，与填空对应的部分使用 <b class="hl"></b> 高亮）
+- 第2行（可选）：<br> + 解析：机理/解释说明（用中文详细解释为什么是这个答案，适用于复杂概念或来自选择、简答题等其他题型的转换）
+
+**字段 3（Tags）**
+使用章节名称、小节名称等作为标签，多个标签之间用空格分隔，必须包含题型标签"填空题"。
+
+**示例 1（简短知识点，无需解释）**
 "The proximal convoluted tubule has a {{c1::brush border}} lining","近曲小管表面覆盖<b class="hl">刷状缘</b>","泌尿系统 近曲小管 填空题"
+
+**示例 2（需要解释的复杂知识点）**
+"The {{c1::proximal convoluted tubule}} is responsible for {{c2::selective reabsorption}} of glucose and amino acids","<b class="hl">近曲小管</b>负责葡萄糖和氨基酸的<b class="hl">选择性重吸收</b><br>解析：近端小管上皮细胞含有大量线粒体，提供 ATP 能量用于主动运输；刷状缘增加了表面积，有利于物质吸收。","泌尿系统 近曲小管 填空题"
 
 # ======================  英文卡片 (HTML) ======================
 制卡类型：医学英语词汇（词根-词缀记忆法）
