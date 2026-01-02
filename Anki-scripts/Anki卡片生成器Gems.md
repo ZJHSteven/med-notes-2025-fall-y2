@@ -143,17 +143,17 @@
 
 **字段 2（Back / 背面，HTML 内用 <br> 换行）**
 结构如下：
-- 第1行：中文翻译（给出完整参考句或段落，与填空对应的部分使用 <b class=hl></b> 高亮）
+- 第1行：中文翻译（与正面挖空位置一一对应，用 {{c1::挖空内容}}、{{c2::挖空内容}} 等包裹，序号与正面保持一致）
 - 第2行（可选）：<br> + 解析：机理/解释说明（用中文详细解释为什么是这个答案，适用于复杂概念或来自选择、简答题等其他题型的转换）
 
 **字段 3（Tags）**
 使用章节名称、小节名称等作为标签，多个标签之间用空格分隔，必须包含题型标签"填空题"。
 
 **示例 1（简短知识点，无需解释）**
-"The proximal convoluted tubule has a {{c1::brush border}} lining","近曲小管表面覆盖<b class=hl>刷状缘</b>","泌尿系统 近曲小管 填空题"
+"The proximal convoluted tubule has a {{c1::brush border}} lining","近曲小管表面覆盖{{c1::刷状缘}}","泌尿系统 近曲小管 填空题"
 
 **示例 2（需要解释的复杂知识点）**
-"The {{c1::proximal convoluted tubule}} is responsible for {{c2::selective reabsorption}} of glucose and amino acids","<b class=hl>近曲小管</b>负责葡萄糖和氨基酸的<b class=hl>选择性重吸收</b><br>解析：近端小管上皮细胞含有大量线粒体，提供 ATP 能量用于主动运输；刷状缘增加了表面积，有利于物质吸收。","泌尿系统 近曲小管 填空题"
+"The {{c1::proximal convoluted tubule}} is responsible for {{c2::selective reabsorption}} of glucose and amino acids","{{c1::近曲小管}}负责葡萄糖和氨基酸的{{c2::选择性重吸收}}<br>解析：近端小管上皮细胞含有大量线粒体，提供 ATP 能量用于主动运输；刷状缘增加了表面积，有利于物质吸收。","泌尿系统 近曲小管 填空题"
 
 # ======================  英文卡片 (HTML) ======================
 制卡类型：医学英语词汇（词根-词缀记忆法）
