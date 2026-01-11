@@ -133,9 +133,9 @@
 第 1 行：问题的中文翻译
 第 2 行：英文答案
 第 3 行：英文答案的中文翻译
-标签：使用章节名称小节名称等作为标签，注意，多个标签之间用空格分隔；同时，标签必须使用中文、至少要有题型标签，如"问答题"、"填空题"，英文单词卡片单独使用"英文"标签
+标签：章节/小节等建议用层级标签（如 大二上::生理学::绪论），多个标签用空格分隔；必须包含题型标签（题型::问答题），可选增加资料::名词解释 等来源痕迹
 示例：
-"Why are the internal environment and homeostasis important?","内环境与稳态的重要性是什么？<br>The internal environment and its relative stability (homeostasis) are essential for cell survival and for maintaining normal life activities of the body.<br>内环境及其相对稳定（稳态）是细胞生存并维持机体正常生命活动的必要条件。","生理学 绪论 问答题"
+"Why are the internal environment and homeostasis important?","内环境与稳态的重要性是什么？<br>The internal environment and its relative stability (homeostasis) are essential for cell survival and for maintaining normal life activities of the body.<br>内环境及其相对稳定（稳态）是细胞生存并维持机体正常生命活动的必要条件。","大二上::生理学::绪论 题型::问答题"
 
 # ====================== 填空题卡片 (CSV) ======================
 每张卡片同样占一行，**3 个字段**，英文逗号分隔，每个字段整体用双引号包裹：
@@ -151,13 +151,13 @@
 - 第2行（可选）：<br> + 解析：机理/解释说明（用中文详细解释为什么是这个答案，适用于复杂概念或来自选择、简答题等其他题型的转换）
 
 **字段 3（Tags）**
-使用章节名称、小节名称等作为标签，多个标签之间用空格分隔，必须包含题型标签"填空题"。
+章节/小节等建议用层级标签（如 大二上::泌尿系统::近曲小管），多个标签之间用空格分隔，必须包含题型::填空题，可选增加资料::简答 等来源痕迹。
 
 **示例 1（简短知识点，无需解释）**
-"The proximal convoluted tubule has a {{c1::brush border}} lining","近曲小管表面覆盖{{c1::刷状缘}}","泌尿系统 近曲小管 填空题"
+"The proximal convoluted tubule has a {{c1::brush border}} lining","近曲小管表面覆盖{{c1::刷状缘}}","大二上::泌尿系统::近曲小管 题型::填空题"
 
 **示例 2（需要解释的复杂知识点）**
-"The {{c1::proximal convoluted tubule}} is responsible for {{c2::selective reabsorption}} of glucose and amino acids","{{c1::近曲小管}}负责葡萄糖和氨基酸的{{c2::选择性重吸收}}<br>解析：近端小管上皮细胞含有大量线粒体，提供 ATP 能量用于主动运输；刷状缘增加了表面积，有利于物质吸收。","泌尿系统 近曲小管 填空题"
+"The {{c1::proximal convoluted tubule}} is responsible for {{c2::selective reabsorption}} of glucose and amino acids","{{c1::近曲小管}}负责葡萄糖和氨基酸的{{c2::选择性重吸收}}<br>解析：近端小管上皮细胞含有大量线粒体，提供 ATP 能量用于主动运输；刷状缘增加了表面积，有利于物质吸收。","大二上::泌尿系统::近曲小管 题型::填空题"
 
 # ======================  英文卡片 (HTML) ======================
 制卡类型：问答题的一种，医学英语词汇（词根-词缀记忆法）
@@ -172,9 +172,9 @@
     词缀：“-suffix” (<中文说明>)<br>
     … 如有多组词根/词缀，继续按出现顺序换行列出
 字段 3（Tags）  
-    "讲义章节标题 英文 问答题"
+    "讲义章节层级标签 题型::英文词根-词缀"
 示例（整行即一张卡）：  
-"urethral crest","音标：/jʊˈriːθrəl/ /krɛst/<br>释义：尿道嵴<br>词根：“urethr-” (尿道, 源自希腊语 ourethra “urethra”)<br>词缀：“-al” (的, 形容词后缀)<br>词组：“crest” (嵴, 源自拉丁语 crista “a tuft, plume, crest”)","男性生殖系统 英文 问答题"
+"urethral crest","音标：/jʊˈriːθrəl/ /krɛst/<br>释义：尿道嵴<br>词根：“urethr-” (尿道, 源自希腊语 ourethra “urethra”)<br>词缀：“-al” (的, 形容词后缀)<br>词组：“crest” (嵴, 源自拉丁语 crista “a tuft, plume, crest”)","大二上::男性生殖系统 题型::英文词根-词缀"
 注意：
 - 面对类似于这种词组的音标，每个单词作为一个单独的音标，有一个单独的/.../
 - 禁止任何字段为略，必须完整输出，尤其是音标
@@ -209,7 +209,7 @@
     # 词汇解析格式参见"词根-词缀卡片"部分,包含音标、释义、词根、词缀等
 
 字段 4(Tags / 标签)
-    "黑体字默写 <章节名称>"
+    "<章节层级标签> 题型::黑体词默写"
 
 ----------------------------------------------------------------
 
@@ -218,12 +218,12 @@
 2. 字段 1 中,挖空处必须用下划线 _____ 标记(数量可根据词长调整)
 3. 字段 2 仅含答案文本,多个答案用空格分隔
 4. 字段 3 包含完整翻译和每个词汇的详细解析,解析之间用 <hr> 分隔
-5. 标签必须包含"黑体字默写"
+5. 标签必须包含题型::黑体词默写
 
 ----------------------------------------------------------------
 
 示例(整行即一张卡):
 
-"The _____ has a _____ lining","proximal convoluted tubule brush border","近曲小管表面覆盖刷状缘<br><hr>音标:/ˈprɒksɪməl/ /ˈkɒnvəluːtɪd/ /ˈtjuːbjuːl/<br>释义:近曲小管<br>词根:"proxim-"(接近,源自拉丁语 proximus "nearest")<br>词缀:"-al"(的,形容词后缀)<br>词组:"convoluted"(蜿蜒的,源自拉丁语 convolutus "rolled together")<br>词组:"tubule"(小管,源自拉丁语 tubulus "small tube")<br><hr>音标:/brʌʃ/ /ˈbɔːdə/<br>释义:刷状缘<br>词组:"brush"(刷子,源自古法语 broisse)<br>词组:"border"(边缘,源自古法语 bordure)","黑体字默写 泌尿系统"
+"The _____ has a _____ lining","proximal convoluted tubule brush border","近曲小管表面覆盖刷状缘<br><hr>音标:/ˈprɒksɪməl/ /ˈkɒnvəluːtɪd/ /ˈtjuːbjuːl/<br>释义:近曲小管<br>词根:"proxim-"(接近,源自拉丁语 proximus "nearest")<br>词缀:"-al"(的,形容词后缀)<br>词组:"convoluted"(蜿蜒的,源自拉丁语 convolutus "rolled together")<br>词组:"tubule"(小管,源自拉丁语 tubulus "small tube")<br><hr>音标:/brʌʃ/ /ˈbɔːdə/<br>释义:刷状缘<br>词组:"brush"(刷子,源自古法语 broisse)<br>词组:"border"(边缘,源自古法语 bordure)","大二上::泌尿系统 题型::黑体词默写"
 
 # ==============================================================
